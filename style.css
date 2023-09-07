@@ -1,0 +1,26 @@
+/* */
+* {
+
+}
+
+
+/* type selector - matches any element with this name */
+p {
+
+}
+
+/* id selector - selects the html element with this id attribute */
+#blue {
+
+}
+
+/* class selector - selects the matching class attribute */
+/* <p class="fancy"> */
+.fancy {
+
+}
+
+/* child selector - selects an item that is a child of something else */
+p > a {
+    color: darkolivegreen;
+}
